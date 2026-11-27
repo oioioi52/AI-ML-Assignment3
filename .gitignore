@@ -1,0 +1,22 @@
+# 원본 영상은 올리지 않는다 (교수님 안내: keypoint 파일만 업로드)
+data/raw_videos/
+videos/_tmp_*
+__pycache__/
+*.pyc
+visualization/blend/*.blend1
+# 개인 참고용 파일
+00_제출파일_안내.txt
+docs/과제_이해_설명자료.*
+visualization/render_log.txt
+results/experiment_log.txt
+results/bvh_log.txt
+# 원본 영상 화면이 들어간 결과물, 제출 문서, 외부 캐릭터 에셋
+videos/compare_*.mp4
+videos/demo_all.mp4
+results/figures/s1_acquisition.png
+results/figures/s1_problems_bone_outlier.png
+results/figures/s4_compare_video_frame.png
+report/
+docs/
+visualization/assets/
+visualization/blend/
